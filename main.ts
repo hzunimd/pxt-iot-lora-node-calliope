@@ -2,6 +2,8 @@
 * pxt-iot-lora node, Micro:Bit library for IoTLoRaNode
 * Copyright (C) 2018-2020  Pi Supply
 * Changes for Calliope mini 8.5.2020 M. Klein
+* Changes #2 volkmar.hinz@fclab.mtcs.org
+*
 * This program is free software: you can redistribute it and/or modify
 * it under the terms of the GNU General Public License as published by
 * the Free Software Foundation, either version 3 of the License, or
